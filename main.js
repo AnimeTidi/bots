@@ -35,17 +35,3 @@ client.on('message', message =>{
     }
 });
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
